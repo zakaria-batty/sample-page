@@ -342,13 +342,13 @@ h4 {
         width: 92% !important;
         margin-left: 18px;
     }
-    .content {
+    /* .content {
         color: white;
         position: absolute;
         bottom: 9rem;
         left: 4rem;
         font-size: 25px;
-    }
+    } */
     .part{
         width: 83%;
     }
